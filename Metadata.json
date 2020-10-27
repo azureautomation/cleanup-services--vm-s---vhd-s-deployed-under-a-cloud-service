@@ -1,7 +1,7 @@
 {
     "Author": "Sachin Gupta (sachinitsme)",
     "ContentSize": 548,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/cleanup-services,-vm's-&-vhd's-deployed-under-a-cloud-service/master/VMDeletion.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/cleanup-services--vm-s---vhd-s-deployed-under-a-cloud-service/master/VMDeletion.ps1",
     "DownloadCount": 1010,
     "Id": "Azure-Cloud-Service-VM-4e210bea",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "Using this script you can delete all the VM's, linked VHD's and other deployments under the specific cloud service.",
     "Title": "Cleanup Services, VM's & VHD's deployed under a Cloud Service",
     "UpdatedDate": "2017-2-24T00:00:00",
-    "Url": "https://github.com/azureautomation/cleanup-services,-vm's-&-vhd's-deployed-under-a-cloud-service",
+    "Url": "https://github.com/azureautomation/cleanup-services--vm-s---vhd-s-deployed-under-a-cloud-service",
     "UserTags": "Azure, Microsoft Azure, Powershell"
 }
